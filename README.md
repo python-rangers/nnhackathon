@@ -1,8 +1,8 @@
 # nnhackathon
-This project maintains code for numpy ninja hackathon
+This project maintains code for numpy ninja hackathon.
 
-Details to be added:
-1. Hackathon link
-2. useful documentation
-3. presentation documents
-4. Jira board
+Additional EDA gives an output html file.
+http://localhost:8888/view/workspace/nnhackathon/output.html
+
+Jira board details are added to the presentation slides.
+https://docs.google.com/presentation/d/1ixOTFCd8EIZxTT8PgDSyPnJKizpWCg9H8v8FjTO9YNc/edit#slide=id.g12e23046ba8_0_51
